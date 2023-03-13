@@ -99,6 +99,9 @@
 .main .news .news-con .report ul li a {}
 .main .news .news-con .report ul li a .new-img {}
 .main .news .news-con .report ul li a p {width: 340px; height: 131px; background: #fff; font-size: 18px; padding: 25px 16px; box-sizing: border-box;}
+
+.main .news .news-con .report ul li a p:hover{background: #0C2340; color: #fff;}
+
 .main .news .news-con .report ul li a p span {font-size: 14px; margin-bottom: 8px;}
 .main .news .news-con .report ul li a p .date {display: block;}
 .main .news .news-con .video {position: relative;}
