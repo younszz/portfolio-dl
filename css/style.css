@@ -122,7 +122,8 @@
 .main .recruit ul {display: flex; justify-content: center; margin-top: 42px;}
 .main .recruit ul li {text-align: center;}
 .main .recruit ul li:first-child {margin-right: 30px;}
-.main .recruit ul li a {border: 1px solid rgba(255, 255, 255,0.5); width: 130px; height: 130px;padding-top: 25px; box-sizing: border-box; display: block;}
+.main .recruit ul li a {border: 1px solid rgba(255, 255, 255,0.5); width: 130px; height: 130px;padding-top: 25px; box-sizing: border-box; display: block;transition: 0.4s;}
+.main .recruit ul li:hover a{background:#3465a1;border: 1px solid #3465a1;}
 .main .recruit ul li a img {}
 .main .recruit ul li a p {color: #fff; margin-top: 16px; font-size: 14px;}
 
